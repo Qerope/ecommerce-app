@@ -107,8 +107,8 @@ export default function DesignInfoPage() {
                   </div>
                   <div className="flex items-center">
                     <Globe className="w-4 h-4 mr-2 text-green-600" />
-                    <Link href="http://ecommerce-app.vercel.app/" className="text-blue-600 hover:underline">
-                      ecommerce-app.vercel.app
+                    <Link href="https://ecommerce-app-sandy-two.vercel.app/" className="text-blue-600 hover:underline">
+                      ecommerce-app-sandy-two.vercel.app
                     </Link>
                     <ExternalLink className="w-3 h-3 ml-1" />
                   </div>

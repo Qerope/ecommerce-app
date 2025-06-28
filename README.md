@@ -38,6 +38,7 @@ You can access the full source code of this project here: [https://github.com/Qe
 
 The project is also deployed live and can be accessed through the following URL:
 
+[https://ecommerce-app-sandy-two.vercel.app/](https://ecommerce-app-sandy-two.vercel.app/)
 
 You can visit this link to view the live version of the project.
 
